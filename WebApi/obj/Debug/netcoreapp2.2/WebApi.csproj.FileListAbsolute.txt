@@ -1,0 +1,14 @@
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\z003whua\source\repos\BookGraphQL\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
